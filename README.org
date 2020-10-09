@@ -1,3 +1,7 @@
 * Techonologies Used
 + ANTLR4 for parsing
 + ASM for Java Bytecode generation
+
+* Project Organisation
++ ~src~ contains grammars and sample code for poetica, ending in extension ~.poem~.
++ ~gen~ contains all Java code to parse, validate and generate Java Bytecode
